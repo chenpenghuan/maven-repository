@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.sixj</groupId>
+  <artifactId>logback-warning-platform</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221116070641</lastUpdated>
+  </versioning>
+</metadata>
